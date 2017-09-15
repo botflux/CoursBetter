@@ -13,4 +13,8 @@ Cette opération peut-être accomplie en utilisant la fonction "mktime()" avec c
 
 ## Obtenir les informations sur une variable:
 
-Pour obtenir des informations sur une variable, comme son type ou sa valeur, utiliser la fonction var_dump($var). Cette fonction marche aussi avec les tableau pour connaître les valeurs à chaque index.
+Pour obtenir des informations sur une variable, comme son type ou sa valeur, utiliser la fonction.
+
+    var_dump($var);
+
+Cette fonction marche aussi avec les tableau pour connaître les valeurs à chaque index.
