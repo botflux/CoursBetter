@@ -9,7 +9,7 @@
 
 ## Convertir une date en entier:
 
-Cette opération peut-être accomplie en utilisant la fonction "mktime()" avec comme paramètre les heures, minutes, secondes, mois, jours, année.
+Cette opération peut-être accomplie en utilisant la fonction *mktime()* avec comme paramètre les heures, minutes, secondes, mois, jours, année.
 
 ## Obtenir les informations sur une variable:
 
